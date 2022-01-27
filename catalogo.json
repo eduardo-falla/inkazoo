@@ -1,0 +1,71 @@
+{
+  "todos": [
+    {
+      "id": 1000,
+      "stock":" 5 unid",
+      "especie": "Guppies",
+      "variedad":"bigear",
+      "origen":"nacional",
+      "done": false,
+      "precio":"S/ 15.0 c/u",
+      "url":"guppys.mp4",
+      "descripcion":"Pez tropical de agua dulce con esperanza de vida de hasta 5 años, vive a temperaturas de 18 a 28 ºC." ,
+      "nivel_cuidado":"bajo",
+      "masinfo":"https://bit.ly/33Lt3So"
+    },
+    
+    {
+      "id": 1001,
+      "stock":" 5 unid",
+      "especie": "Salamandras/ajolotes",
+      "done": true,
+      "precio": "S/ 25.0 c/u",
+      "url":"axolotes.mp4",
+      "variedad":"mexicano",
+      "origen":"nacional",
+      "descripcion":"El ajolote es un animal único y fascinante. Para aquellos que buscan algo diferente para su acuario, esta peculiar especie puede ser una opción." ,
+      "nivel_cuidado":"bajo",
+      "masinfo":"https://bit.ly/3tB9182"
+    },
+    {
+      "id": 1002,
+      "stock":" 5 unid",
+      "especie": "Ranas",
+      "done": false,
+      "precio": "S/ 250 c/u",
+      "url":"rana-dardo.mp4",
+      "variedad":"Dendrobatido Rana Dardo",
+      "origen":"nacional",
+      "descripcion":"Mascota exótica reproducida en granjas" ,
+      "nivel_cuidado":"medio",
+      "masinfo":"https://bit.ly/3IwEqgr"
+
+    },
+    {
+      "id": 1003,
+      "stock":" 5 unid",
+      "especie": "Plantas",
+      "done": false,
+      "precio": "S/ 20 c/u",
+      "url":"anubias-random.mp4",
+      "variedad":"Anubias bartreri",
+      "origen":"Nacional",
+      "descripcion":"Las Anubias son plantas ideales para el acuario de agua dulce. Son muy sencillas de mantener debido a sus bajos requerimientos en cuanto a poda y abonado." ,
+      "nivel_cuidado":"Bajo",
+      "masinfo": "https://bit.ly/33Lt3So"
+    },
+    {
+      "especie": "Gambas/Neocaridinas",
+      "stock":" 5 unid",
+      "id": 1004,
+      "done": false,
+      "precio": "S/ 10 c/u",
+      "url":"gambas.mp4",
+      "variedad":"gambas cherry,",
+      "origen":"Nacional",
+      "descripcion":"Son una alternativa perfecta para tener en un dormitorio infantil, en la oficina o en el aula de una clase. Cualquier sitio donde el espacio sea reducido, pero queramos sentir la magia de un acuario..." ,
+      "nivel_cuidado":"Bajo",
+      "masinfo":"https://bit.ly/34REubO"
+    }
+  ]
+}
